@@ -1,2 +1,2 @@
 # stylegan2-toys
-Various projects that I've worked on for special effects in StyleGAN2.
+Face image morphing with Stylegan 2 ada
